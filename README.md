@@ -1,5 +1,3 @@
----
-
 **Project Title: 🏠 House Price Prediction Using Machine Learning**
 
 **Objective**:  
